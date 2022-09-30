@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Emmanuel Badewa"
+author: "Emmanuel Badewa"
+description: "University of Waterloo"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:eabadewa@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/eabadewa"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/ebadewasoil"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
